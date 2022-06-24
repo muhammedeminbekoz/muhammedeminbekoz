@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Emin Beköz</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-
+<a href="https://wakatime.com/@75ccd5a5-1a45-4cea-bfbe-a62c04d633b9"><img src="https://wakatime.com/badge/user/75ccd5a5-1a45-4cea-bfbe-a62c04d633b9.svg" alt="Total time coded since Jun 14 2022" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedeminbekoz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedeminbekoz" /> </p>
 
 <h3 align="left">Connect with me:</h3>
